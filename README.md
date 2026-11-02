@@ -7,7 +7,7 @@ Master's in Business Analytics + Software Engineering degree · Arabic · French
 
 <p>
   <a href="https://karawene112.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-karawene112.github.io-1f3a6b?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/karawene-bencheikh-2245573ab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/karawene-ben-cheikh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://karawene112.github.io/Karawene_BenCheikh_CV_EN.pdf"><img src="https://img.shields.io/badge/📄_CV-Download-444?style=for-the-badge" alt="CV"></a>
 </p>
 
