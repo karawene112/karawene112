@@ -16,11 +16,11 @@ Master's in Business Analytics + Software Engineering degree · Arabic · French
 ## 🚀 Featured projects
 
 ### ✈️ Layover Logbook: an app for airline crew
-A mobile web app I designed from my own experience as cabin crew: free-time planner, live nearby search, spending analytics with currency conversion, and fatigue tracking.
+A mobile web app I designed from my own experience as cabin crew: free-time planner, live nearby search, spending analytics with currency conversion, fatigue tracking, and a private crew feed where crew share photos, places and ratings for each city.
 
 **[▶ Open the app](https://karawene112.github.io/layover/)** · **[Watch the 2-min walkthrough](https://karawene112.github.io/#project)**
 
-`JavaScript` `PWA` `Geolocation` `OpenStreetMap` `Data visualization`
+`JavaScript` `PWA` `Supabase` `PostgreSQL` `Geolocation` `OpenStreetMap` `Data visualization`
 
 ### 🎓 Academic Path Recommender: IA4U, ESPRIT School of Business
 An AI-based system that recommends the best-fit study program from a student's degree, grades, skills and dream job.
