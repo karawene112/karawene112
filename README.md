@@ -7,7 +7,7 @@ Master's in Business Analytics + Software Engineering degree · Arabic · French
 
 <p>
   <a href="https://karawene112.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-karawene112.github.io-1f3a6b?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/karawene-ben-cheikh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/karawene-ben-cheikh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://karawene112.github.io/Karawene_BenCheikh_CV_EN.pdf"><img src="https://img.shields.io/badge/📄_CV-Download-444?style=for-the-badge" alt="CV"></a>
 </p>
 
@@ -18,9 +18,20 @@ Master's in Business Analytics + Software Engineering degree · Arabic · French
 ### ✈️ Layover Logbook: an app for airline crew
 A mobile web app I designed from my own experience as cabin crew: free-time planner, live nearby search, spending analytics with currency conversion, fatigue tracking, and a private crew feed where crew share photos, places and ratings for each city.
 
-**[▶ Open the app](https://karawene112.github.io/layover/)** · **[Watch the 2-min walkthrough](https://karawene112.github.io/#project)**
+<a href="https://karawene112.github.io/#project"><img src="https://karawene112.github.io/layover-demo-poster.jpg" width="600" alt="Layover Logbook: how it works video"></a>
+
+**[▶ Watch how it works (1 min 40)](https://karawene112.github.io/#project)** · **[Open the app](https://karawene112.github.io/layover/)**
 
 `JavaScript` `PWA` `Supabase` `PostgreSQL` `Geolocation` `OpenStreetMap` `Data visualization`
+
+### 🤝 Delegiq: task delegation for teams
+A subscription web app that gives every task an owner and a deadline, chases people by email and WhatsApp when work is late or blocked, and writes the manager's morning brief with AI. Five access levels enforced by the database, in English, French and Arabic.
+
+<a href="https://karawene112.github.io/#delegiq"><img src="https://karawene112.github.io/delegiq-demo-poster.jpg" width="600" alt="Delegiq: 90-second tour video"></a>
+
+**[▶ Watch the 90-second tour](https://karawene112.github.io/#delegiq)** · **[Open the app](https://karawene112.github.io/handoff/app/)** · **[Product page](https://karawene112.github.io/handoff/)** · **[Code](https://github.com/karawene112/handoff)**
+
+`JavaScript` `PostgreSQL` `Supabase` `Row-level security` `Edge Functions` `AI` `i18n / RTL`
 
 ### 🎓 Academic Path Recommender: IA4U, ESPRIT School of Business
 An AI-based system that recommends the best-fit study program from a student's degree, grades, skills and dream job.
@@ -62,4 +73,4 @@ Cleaned and modeled a US flight-delays dataset, then built analysis dashboards.
 
 ---
 
-📫 **Open to Data Analyst opportunities.** The best way to reach me is through my [portfolio](https://karawene112.github.io/#contact) or [LinkedIn](https://www.linkedin.com/in/karawene-bencheikh-2245573ab).
+📫 **Open to Data Analyst opportunities.** The best way to reach me is through my [portfolio](https://karawene112.github.io/#contact) or [LinkedIn](https://www.linkedin.com/in/karawene-ben-cheikh/).
