@@ -20,7 +20,7 @@ A mobile web app I designed from my own experience as cabin crew: free-time plan
 
 <a href="https://karawene112.github.io/#project"><img src="https://karawene112.github.io/layover-demo-poster.jpg" width="600" alt="Layover Logbook: how it works video"></a>
 
-**[▶ Watch how it works (1 min 40)](https://karawene112.github.io/#project)** · **[Open the app](https://karawene112.github.io/layover/)**
+**[▶ Watch how it works (1 min 40)](https://karawene112.github.io/#project)** · **[Website](https://karawene112.github.io/layover/)** · **[Open the app](https://karawene112.github.io/layover/app.html)**
 
 `JavaScript` `PWA` `Supabase` `PostgreSQL` `Geolocation` `OpenStreetMap` `Data visualization`
 
