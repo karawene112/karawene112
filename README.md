@@ -16,13 +16,13 @@ Master's in Business Analytics + Software Engineering degree · Arabic · French
 ## 🚀 Featured projects
 
 ### ✈️ Layover Logbook: an app for airline crew
-A mobile web app I designed from my own experience as cabin crew: free-time planner, live nearby search, spending analytics with currency conversion, fatigue tracking, and a private crew feed where crew share photos, places and ratings for each city.
+A mobile web app I designed from my own experience as cabin crew: an interactive 3D globe showing the route from your home base, a postcard photo for every destination, free-time planner, live nearby search, spending analytics with currency conversion, fatigue tracking with a Pro roster check, and a private crew feed where crew share photos, places and ratings for each city.
 
 <a href="https://karawene112.github.io/#project"><img src="https://karawene112.github.io/layover-demo-poster.jpg" width="600" alt="Layover Logbook: how it works video"></a>
 
 **[▶ Watch how it works (1 min 40)](https://karawene112.github.io/#project)** · **[Website](https://karawene112.github.io/layover/)** · **[Open the app](https://karawene112.github.io/layover/app.html)**
 
-`JavaScript` `PWA` `Supabase` `PostgreSQL` `Geolocation` `OpenStreetMap` `Data visualization`
+`JavaScript` `Three.js / WebGL` `PWA` `Supabase` `PostgreSQL` `Geolocation` `OpenStreetMap` `Wikipedia API` `Paddle` `Data visualization`
 
 ### 🤝 Delegiq: task delegation for teams
 A subscription web app that gives every task an owner and a deadline, chases people by email and WhatsApp when work is late or blocked, and writes the manager's morning brief with AI. Five access levels enforced by the database, in English, French and Arabic.
